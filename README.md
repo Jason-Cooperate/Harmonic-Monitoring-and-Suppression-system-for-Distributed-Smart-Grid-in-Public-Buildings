@@ -25,4 +25,6 @@ The hardware structure we build is shown below:
 ## Smart grid monitoring based on RTSG algorithm and Artificial Neural Network
   We proposed the RTSG (Real Time Synchronized Goertzel) algorithm and conducted simulation tests on matlab. In addition, we also quoted the CNN in the paper<sup>[1]</sup> and processed the MCT vectors to obtain the classification results of power quality disturbances.
 
-  [^1] Ma J , Zhang J , Xiao L , et al. Classification of Power Quality Disturbances via Deep Learning[J]. IETE Technical Review, 2016:1-8.
+## REF
+
+  - [1] Ma J , Zhang J , Xiao L , et al. Classification of Power Quality Disturbances via Deep Learning[J]. IETE Technical Review, 2016:1-8.
