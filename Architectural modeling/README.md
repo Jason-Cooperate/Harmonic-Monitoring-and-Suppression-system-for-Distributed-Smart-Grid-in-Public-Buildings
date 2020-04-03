@@ -3,7 +3,7 @@
 ------
 
 In this part, we download the basic CAD file from the web, and construct the skp file in this branch.
-1. Building Info:
+## 1. Building Info:
   -  Building Area:               about 43000 m^2
   -  Location:                    Shanghai
   -  Floors:                      24(above ground)+2(Underground)
@@ -12,7 +12,7 @@ In this part, we download the basic CAD file from the web, and construct the skp
   -  Electrical equipment Power:  11.7W/m^2
   -  Lighting equipment Power:    20W/m^2
   -  APF Power                    0.04W/m^2
-2. Other Variable setting
+## 2. Other Variable setting
 ### 1) Staffing
 ``` ruby
 
