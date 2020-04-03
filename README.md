@@ -16,4 +16,4 @@ The hardware structure we build is shown below:
 ## Architectural modeling
   We modeled a large public building in Shanghai to provide a simulation basis for EnergyPlus. Modeled as follows:
 
-  ![Building Model](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/Building Model1.png)
+  ![Building Model](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/Building%20Model1.png)
