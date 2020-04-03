@@ -4,14 +4,14 @@
 
 In this part, we download the basic CAD file from the web, and construct the skp file in this branch.
 ## 1. Building Info:
-  -  Building Area:               about 43000 m^2
-  -  Location:                    Shanghai
-  -  Floors:                      24(above ground)+2(Underground)
-  -  Main harmonic source:        HVAC,Lighting,Elevator,Fire Equipment...
-  -  Office staff density:        0.11/m^2
-  -  Electrical equipment Power:  11.7W/m^2
-  -  Lighting equipment Power:    20W/m^2
-  -  APF Power                    0.04W/m^2
+  -  **Building Area:**               about 43000 m<sup>2</sup>
+  -  **Location:**                 Shanghai
+  -  **Floors:**                    24(above ground)+2(Underground)
+  -  **Main harmonic source:**        HVAC,Lighting,Elevator,Fire Equipment...
+  -  **Office staff density:**        0.11/m<sup>2</sup>
+  -  **Electrical equipment Power:**  11.7W/m<sup>2</sup>
+  -  **Lighting equipment Power:**    20W/m<sup>2</sup>
+  -  **APF Power**                    0.04W/m<sup>2</sup>
 ## 2. Other Variable setting
 ### 1) Staffing
 ``` ruby
