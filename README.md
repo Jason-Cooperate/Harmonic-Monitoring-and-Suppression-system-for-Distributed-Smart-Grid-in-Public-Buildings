@@ -26,7 +26,7 @@ The hardware structure we build is shown below:
  [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/DAFS)
 
 ## Smart grid monitoring based on RTSG algorithm and Artificial Neural Network
-  We proposed the RTSG (Real Time Synchronized Goertzel) algorithm and conducted simulation tests on matlab. In addition, we also quoted the CNN in the paper<sup>[1]</sup> and processed the MCT vectors to obtain the classification results of power quality disturbances.
+  We proposed the RTSG (Real Time Synchronized Goertzel) algorithm and conducted simulation tests on MATLAB. In addition, we also quoted the CNN in the paper<sup>[1]</sup> and processed the MCT vectors to obtain the classification results of power quality disturbances.
   [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/RTSG%20algorithm%20and%20ANN)
 
 ## REFERENCE
