@@ -15,16 +15,20 @@ The hardware structure we build is shown below:
 
 ## Architectural modeling
   We modeled a large public building in Shanghai to provide a simulation basis for EnergyPlus.
+ [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/Architectural%20modeling)
 
 ## Building Consumption simulation
   We set up the parameters in E+ and run the model to obtaion the results.
+ [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/Building%20Simulation)
 
 ## LCLCL Active Power Filter Subsystem construnction
   We made a single initial generation LCLCL active filter subsystem through simulation based on matlab and PCB production based on Aultim Designer, and then programmed in the CSS9.0 environment.
+ [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/DAFS)
 
 ## Smart grid monitoring based on RTSG algorithm and Artificial Neural Network
   We proposed the RTSG (Real Time Synchronized Goertzel) algorithm and conducted simulation tests on matlab. In addition, we also quoted the CNN in the paper<sup>[1]</sup> and processed the MCT vectors to obtain the classification results of power quality disturbances.
+  [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/RTSG%20algorithm%20and%20ANN)
 
-## REF
+## REFERENCE
 
   - [1] Ma J , Zhang J , Xiao L , et al. Classification of Power Quality Disturbances via Deep Learning[J]. IETE Technical Review, 2016:1-8.
