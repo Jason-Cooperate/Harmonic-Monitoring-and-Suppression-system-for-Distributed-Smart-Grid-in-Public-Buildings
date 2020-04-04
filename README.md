@@ -9,8 +9,7 @@ This project mainly implements SDAFS(Spatial Distributed Active Filter System) i
 > *  [LCLCL Active Power Filter Subsystem construnction](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/DAFS)
 > *  [Smart grid monitoring based on RTSG algorithm and Artificial Neural Network](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/RTSG%20algorithm%20and%20ANN)
 
-The hardware structure we build is shown below:
-![APF Hardware](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/总图1.jpg)
+Summary diagram of this project:
 ![SDAFS Strructure](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/总图2.jpg)
 
 ## Architectural modeling
