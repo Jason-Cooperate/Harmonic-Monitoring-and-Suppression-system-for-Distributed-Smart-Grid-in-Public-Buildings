@@ -28,11 +28,18 @@ Summary diagram of this project:
   We proposed the RTSG (Real Time Synchronized Goertzel) algorithm and conducted simulation tests on MATLAB. In addition, we also quoted the CNN in the paper<sup>[1]</sup> and processed the MCT vectors to obtain the classification results of power quality disturbances.
   [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/RTSG%20algorithm%20and%20ANN)
 
-
-
 ## REFERENCE
 
   - [1] Ma J , Zhang J , Xiao L , et al. Classification of Power Quality Disturbances via Deep Learning[J]. IETE Technical Review, 2016:1-8.
 
-### Unable to load Pictures
-    May U find your answers here [Picture Display problem](https://zhuanlan.zhihu.com/p/107196957)
+## Unable to load Pictures?
+    May U find your answers here
+     [Picture Display problem](https://zhuanlan.zhihu.com/p/107196957)
+
+     ------
+
+       Author [@Jasonmils][1]     
+       4.3  2020
+
+     ------
+[1]:https://github.com/Jasonmils
