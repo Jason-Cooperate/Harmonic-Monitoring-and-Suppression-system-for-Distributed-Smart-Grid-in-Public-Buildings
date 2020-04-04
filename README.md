@@ -30,9 +30,11 @@ Summary diagram of this project:
 
 ## 5. REFERENCE
    waiting for update.
-------
+
 ### Unable to load Pictures？
   click [Solutions](https://zhuanlan.zhihu.com/p/107196957)
+
 ------
+
    Author [@Jasonmils](https://github.com/Jasonmils)
    4.3 2020
