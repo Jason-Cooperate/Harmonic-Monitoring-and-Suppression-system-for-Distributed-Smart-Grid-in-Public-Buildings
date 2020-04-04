@@ -34,5 +34,5 @@ Summary diagram of this project:
 
   - [1] Ma J , Zhang J , Xiao L , et al. Classification of Power Quality Disturbances via Deep Learning[J]. IETE Technical Review, 2016:1-8.
 
-### Unable to load Pictures？
-    GitHub sometimes cannot display pictures, please refer to the link  -- [Picture Display problem](https://zhuanlan.zhihu.com/p/107196957)
+### Unable to load Pictures
+    May U find your answers here [Picture Display problem](https://zhuanlan.zhihu.com/p/107196957)
