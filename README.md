@@ -29,16 +29,10 @@ Summary diagram of this project:
   [details](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/tree/master/RTSG%20algorithm%20and%20ANN)
 
 ## 5. REFERENCE
-
-  - [1] Ma J , Zhang J , Xiao L , et al. Classification of Power Quality Disturbances via Deep Learning[J]. IETE Technical Review, 2016:1-8.
-
-------
-## Questions
-     Unable to Load Pictures?[Unable to load Pictures?](https://zhuanlan.zhihu.com/p/107196957)
-
-------
-
-       Author [@Jasonmils][2]     
-       4.3  2020
-
-[2]: https://github.com/Jasonmils
+   waiting for update.
+   ---
+### Unable to load Pictures？
+  click [Solutions](https://zhuanlan.zhihu.com/p/107196957)
+   ---
+   Author [@Jasonmils](https://github.com/Jasonmils)
+   4.3 2020
