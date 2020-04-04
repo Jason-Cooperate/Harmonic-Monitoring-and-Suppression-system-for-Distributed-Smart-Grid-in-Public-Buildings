@@ -34,12 +34,11 @@ Summary diagram of this project:
 
 ------
 
-     [Unable to load Pictures?](https://zhuanlan.zhihu.com/p/107196957)
+     Unable to Load Pictures?[Unable to load Pictures?](https://zhuanlan.zhihu.com/p/107196957)
 
 ------
 
        Author [@Jasonmils][2]     
        4.3  2020
 
-------
-[2]:https://github.com/Jasonmils
+[2]: https://github.com/Jasonmils
