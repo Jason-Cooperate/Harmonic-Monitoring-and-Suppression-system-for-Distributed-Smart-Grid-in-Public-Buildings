@@ -21,5 +21,7 @@ By applying the RTSAL algorithm, the number of the signal local maxima and minim
  With traditional Goertzel,we can obtaion the voltage spectrum  at five frequencies ( 40, 45, 50, 55,and 60 Hz, respectively).But using interpolation technique will eliminate the operation complexcity greatly without any precision loss.Freq calculation formula:
 
  $$ε_0=Sign(M[k_0+1]-M[k_0-1])$$
- $$ α=\frac{M[k_0+ε_0]}{M[k_0]},σ_0=\frac{α}{α+1}$$
- $$ f_0= \Delta f (k_0+σ_0ε_0)$$
+
+ $$α=\frac{M[k_0+ε_0]}{M[k_0]},σ_0=\frac{α}{α+1}$$
+
+ $$f_0= \Delta f (k_0+σ_0ε_0)$$
