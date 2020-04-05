@@ -12,7 +12,11 @@ In this part, we download the basic CAD file from the web, and construct the skp
   -  **Electrical equipment Power:**  11.7W/m<sup>2</sup>
   -  **Lighting equipment Power:**    20W/m<sup>2</sup>
   -  **APF Power**                    0.04W/m<sup>2</sup>
-## 2. Other Variable setting
+
+---
+## 2. Model
+![Model]()
+## 3. Other Variable setting
 ### 1) Staffing
 ``` ruby
 
