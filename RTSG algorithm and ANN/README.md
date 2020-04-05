@@ -15,6 +15,7 @@ Each time the difference is computed in the interpolation process, the sign of t
 
 ### 2) RTSAL Interation for smart filtering
 By applying the RTSAL algorithm, the number of the signal local maxima and minima can be easily calculated and can be used as the criterion for filtering. Because, after using the RTSAL algorithm, a new MCT vector is obtained, some parts of the high-frequency contents are lost, and the reconstructed signal tends to be smoother than before. The result will lead to the decrease of the number of local maxima and minima. Therefore, a method based on number of extreme values is designed to choose a suitable iteration for filtering<sup>[2]</sup>.
+
 ![SmartFilter](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/SF.png)
 ### 3) Interpolation Goertzel
  With traditional Goertzel,we can obtaion the voltage spectrum  at five frequencies ( 40, 45, 50, 55,and 60 Hz, respectively).But using interpolation technique will eliminate the operation complexcity greatly without any precision loss.Freq calculation formula:
