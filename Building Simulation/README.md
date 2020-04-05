@@ -21,6 +21,6 @@ In this folder, we will introduce the  simulation results of SDAFS in buildings 
 ## 3. Simulation results
 ### 1) Overview
 Consuption  of the building
-![Consumption]()
+![Consumption](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/overview.png)
 Fuel  Consumption
-![Fuel]()
+![Fuel](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/Fuel.png)
