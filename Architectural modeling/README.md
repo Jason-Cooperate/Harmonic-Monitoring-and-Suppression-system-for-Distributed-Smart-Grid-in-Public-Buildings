@@ -15,7 +15,7 @@ In this part, we download the basic CAD file from the web, and construct the skp
 
 ---
 ## 2. Model
-![Model]()
+![Model](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Building%20Simulation/IDF/Model1.png)
 ## 3. Other Variable setting
 ### 1) Staffing
 ``` ruby
