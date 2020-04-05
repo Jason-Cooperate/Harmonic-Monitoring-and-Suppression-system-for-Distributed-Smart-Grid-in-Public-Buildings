@@ -18,7 +18,8 @@ By applying the RTSAL algorithm, the number of the signal local maxima and minim
 
 ![SmartFilter](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/SF.png)
 ### 3) Interpolation Goertzel
- With traditional Goertzel,we can obtaion the voltage spectrum  at five frequencies ( 40, 45, 50, 55,and 60 Hz, respectively).But using interpolation technique will eliminate the operation complexcity greatly without any precision loss.Freq calculation formula:
+With traditional Goertzel,we can obtaion the voltage spectrum  at five frequencies(40, 45, 50, 55,and 60 Hz, respectively).But using interpolation technique will eliminate the operation complexcity greatly without any precision loss.Freq calculation formula:
+
 ![formula](https://github.com/Jason-Cooperate/Harmonic-Monitoring-and-Suppression-system-for-Distributed-Smart-Grid-in-Public-Buildings/blob/master/Picture/Formula.png)
 ---
 ## 2. Operation Compare
