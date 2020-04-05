@@ -32,7 +32,7 @@ The central idea of the project：
    waiting for update.
 
 ### Unable to load Pictures？
-  click [Solutions](https://zhuanlan.zhihu.com/p/107196957)
+  In order to have a better understanding of this project, some pictures are neccessary. Click [Solutions](https://zhuanlan.zhihu.com/p/107196957)for better view.
 
 ------
 
